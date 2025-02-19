@@ -3054,10 +3054,10 @@ eslint-config-txo-package-typescript@^1.0.38:
   dependencies:
     eslint-config-txo-typescript "^7.4.18"
 
-eslint-config-txo-typescript@^7.4.18:
-  version "7.4.18"
-  resolved "https://registry.yarnpkg.com/eslint-config-txo-typescript/-/eslint-config-txo-typescript-7.4.18.tgz#44027adeac1f4144eff8c2da668cf7dc437ee63d"
-  integrity sha512-eesrz45Rl/+xbGOmaKXeKnlOdqo3dIfGhs5N6g/hCKr0c5IdiCEvRN1hnSjQudG9kKgQrRjoEO6oEydSvmAFqA==
+eslint-config-txo-typescript@^7.4.18, eslint-config-txo-typescript@^7.4.19:
+  version "7.4.19"
+  resolved "https://registry.yarnpkg.com/eslint-config-txo-typescript/-/eslint-config-txo-typescript-7.4.19.tgz#2c6acd0c7863daafebf804bbe40e73b7061b947e"
+  integrity sha512-gtjLwugsocT0E7yrwFISlFtjNT1TgUrdt3/aEhFXiTx0oTkPxkmdN03hOwiJoYadIBA6Dd4fz5Mqk60b4TLkpA==
   dependencies:
     "@eslint-community/eslint-plugin-eslint-comments" "^4.4.1"
     "@stylistic/eslint-plugin" "^2.13.0"
