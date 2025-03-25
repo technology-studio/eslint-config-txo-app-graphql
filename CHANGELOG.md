@@ -1,3 +1,10 @@
+## [1.0.30](https://github.com/technology-studio/eslint-config-txo-app-graphql/compare/v1.0.29...v1.0.30) (2025-03-25)
+
+
+### Bug fixes
+
+* **deps:** update eslint txo packages ([#62](https://github.com/technology-studio/eslint-config-txo-app-graphql/issues/62)) ([a974749](https://github.com/technology-studio/eslint-config-txo-app-graphql/commit/a9747496a27e9be43a436a153bc2784e8070ee14))
+
 ## [1.0.29](https://github.com/technology-studio/eslint-config-txo-app-graphql/compare/v1.0.28...v1.0.29) (2025-03-22)
 
 
