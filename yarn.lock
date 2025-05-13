@@ -1629,7 +1629,7 @@
     semver "^7.6.0"
     ts-api-utils "^2.1.0"
 
-"@typescript-eslint/utils@8.32.1", "@typescript-eslint/utils@^6.0.0 || ^7.0.0 || ^8.0.0", "@typescript-eslint/utils@^8.23.0", "@typescript-eslint/utils@^8.26.0", "@typescript-eslint/utils@^8.32.0":
+"@typescript-eslint/utils@8.32.1", "@typescript-eslint/utils@^6.0.0 || ^7.0.0 || ^8.0.0", "@typescript-eslint/utils@^8.23.0", "@typescript-eslint/utils@^8.26.0", "@typescript-eslint/utils@^8.32.1":
   version "8.32.1"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/utils/-/utils-8.32.1.tgz#4d6d5d29b9e519e9a85e9a74e9f7bdb58abe9704"
   integrity sha512-DsSFNIgLSrc89gpq1LJB7Hm1YpuhK086DRDJSNrewcGvYloWW1vZLHBTIvarKZDcAORIy/uWNx8Gad+4oMpkSA==
@@ -3269,14 +3269,14 @@ eslint-config-txo-package-typescript@^1.0.83:
   dependencies:
     eslint-config-txo-typescript "^7.4.72"
 
-eslint-config-txo-typescript@^7.4.72, eslint-config-txo-typescript@^7.4.73:
-  version "7.4.73"
-  resolved "https://registry.yarnpkg.com/eslint-config-txo-typescript/-/eslint-config-txo-typescript-7.4.73.tgz#0a4f52cf64a663688c552c89944fb31f0b5b358d"
-  integrity sha512-VTMfU87CtTN5Ou1HZXnngl/3NJAtAoa79Tioyvrn5oaI21n0IKL8pjugXS+psiN7S636Xptb30dC2KcxyPr85w==
+eslint-config-txo-typescript@^7.4.72, eslint-config-txo-typescript@^7.4.74:
+  version "7.4.74"
+  resolved "https://registry.yarnpkg.com/eslint-config-txo-typescript/-/eslint-config-txo-typescript-7.4.74.tgz#8bbe79a7f5232aa8731d7ffaa13a2c5f9256dd97"
+  integrity sha512-/OVp5/jS7MZJQDU6HoDz/e9JZIETXgQmlkg2OvKbXNj0M4vpbouIBom2jGV7JFvkab3q6RqB5M43rYf+84EyuA==
   dependencies:
     "@eslint-community/eslint-plugin-eslint-comments" "^4.5.0"
     "@stylistic/eslint-plugin" "^4.2.0"
-    "@typescript-eslint/utils" "^8.32.0"
+    "@typescript-eslint/utils" "^8.32.1"
     eslint "^9.26.0"
     eslint-config-love "^119.0.0"
     eslint-import-resolver-typescript "^4.3.4"
