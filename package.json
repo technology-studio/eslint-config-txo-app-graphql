@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-txo-app-graphql",
-  "version": "1.0.79",
+  "version": "1.0.80",
   "description": "Technology Studio - Eslint config txo app graphql",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
