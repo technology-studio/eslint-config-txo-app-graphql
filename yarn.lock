@@ -3196,10 +3196,10 @@ eslint-config-txo-package-typescript@^1.0.117:
   dependencies:
     eslint-config-txo-typescript "^7.4.112"
 
-eslint-config-txo-typescript@^7.4.112:
-  version "7.4.112"
-  resolved "https://registry.yarnpkg.com/eslint-config-txo-typescript/-/eslint-config-txo-typescript-7.4.112.tgz#ac66b0dba6659c178fb8c3fe04555e417087c952"
-  integrity sha512-nxG3DNH2x1CuyKdY4ehCvIyxKcAiFIH7ebSpM+zy2+/919PLe1WpAm1tiImr9mI/1rfT32jin0aiHtf9s9yPiA==
+eslint-config-txo-typescript@^7.4.112, eslint-config-txo-typescript@^7.4.113:
+  version "7.4.113"
+  resolved "https://registry.yarnpkg.com/eslint-config-txo-typescript/-/eslint-config-txo-typescript-7.4.113.tgz#4efc1494f46e32c930f7e394885ac433a9580d91"
+  integrity sha512-/aMh0MxV94n3LJR4qRp1S27IKfyAcnBYNZjEt9t92jN6XDSb5M5xE4TBBhbdKCpEK3mtuGcgRWaB4a7uVhsotw==
   dependencies:
     "@eslint-community/eslint-plugin-eslint-comments" "^4.5.0"
     "@stylistic/eslint-plugin" "^4.4.1"
