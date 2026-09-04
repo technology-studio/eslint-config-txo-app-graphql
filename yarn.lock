@@ -3114,7 +3114,7 @@ eslint-config-txo-package-typescript@^1.0.121:
   dependencies:
     eslint-config-txo-typescript "^7.4.117"
 
-eslint-config-txo-typescript@^7.4.117:
+eslint-config-txo-typescript@^7.4.117, eslint-config-txo-typescript@^7.4.118:
   version "7.4.118"
   resolved "https://registry.yarnpkg.com/eslint-config-txo-typescript/-/eslint-config-txo-typescript-7.4.118.tgz#ead334a1a39d4e049e7ece9ba31fd10efc9f819b"
   integrity sha512-L0trF3WdGa9ZgXQVAV0aPpJhtOojyEvEI7/KfnHSPzJq65eCX3na+404sj3dTlUkhRiJwhriCtJGXf3GP5ZiTw==
